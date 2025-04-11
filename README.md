@@ -66,6 +66,10 @@
 | Hindi | hi |
 | French | fr |
 | Bangla | bn |
+| Japanese | ja |
+| Kannada | kn |
+| Russian | ru |
+| German | de |
 
 ---
 
