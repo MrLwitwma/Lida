@@ -1,3 +1,8 @@
+# Announcement!  
+If my youtube channel [https://youtube.com/MrLwitwma](https://www.youtube.com/@MrLwitwma) gets 500 subscriber this whole project's training code will be made open source
+
+
+
 # LIDA – Text Detection AI
 
 **LIDA** is a language identification model that takes text input and predicts the language it is written in.
