@@ -1,5 +1,5 @@
 # Announcement!  
-If my youtube channel [https://youtube.com/MrLwitwma](https://www.youtube.com/@MrLwitwma) gets 500 subscriber this whole project's training code will be made open source
+If my youtube channel [https://youtube.com/@MrLwitwma](https://www.youtube.com/@MrLwitwma) gets 500 subscriber this whole project's training code will be made open source
 
 
 
