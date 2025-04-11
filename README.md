@@ -35,7 +35,9 @@
     pip install -r requirements.txt
     ```
 
-3. **Run the script**
+3. **Using the model**
+   Open the file model.py
+   Add the following lines:
 
     ```python
     text = 'this is an english text'
@@ -43,6 +45,8 @@
     print(language)
     print(language_probablities)
     ```
+
+    Make sure you configure the model file properly
 
 ---
 
