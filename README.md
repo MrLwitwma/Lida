@@ -35,9 +35,8 @@
     pip install -r requirements.txt
     ```
 
-3. **Using the model**
-   Open the file model.py
-   Add the following lines:
+3. **Using the model**:  
+   Open the file model.py and add the following lines:
 
     ```python
     text = 'this is an english text'
